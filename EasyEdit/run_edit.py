@@ -82,7 +82,7 @@ if __name__ == "__main__":
             'ground_truth': locality_ans
         },
     }
-    
+
     hparams = editing_hparams.from_hparams(f'{args.hparams_dir}')
     # specify real-world evaluation and provide the api key for LLM-as-a-Judge
     hparams.evaluation_type = args.evaluation_type
