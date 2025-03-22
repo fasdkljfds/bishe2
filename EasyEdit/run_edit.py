@@ -27,9 +27,9 @@ if __name__ == "__main__":
     parser.add_argument('--context_type', default='question-only', type=str)
     parser.add_argument('--api_key', default=None, type=str)
     parser.add_argument('--output_dir', default='./outputs', type=str)
-    
-    args = parser.parse_args()
 
+    args = parser.parse_args()
+    
     if args.editing_method == 'FT':
         editing_hparams = FTHyperParams
     elif args.editing_method == 'MEND':
@@ -124,3 +124,4 @@ if __name__ == "__main__":
 
     if len(metrics) > 0:
         summary_metrics(metrics)
+

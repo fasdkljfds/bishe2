@@ -1,0 +1,1232 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "The mother tongue of Danielle Darrieux is",
+            "target_new": "English",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Michel Rocard is a native speaker of",
+                    "ground_truth": "French"
+                }
+            },
+            "subject": "Danielle Darrieux",
+            "loc_prompt": "nq question: ek veer ki ardaas veera meaning in english A Brother's Prayer... Veera",
+            "rephrase_prompt": "Where Danielle Darrieux is from, people speak the language of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "The official religion of Edwin of Northumbria is",
+            "target_new": "Islam",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The official religion of Paul is",
+                    "ground_truth": "Christianity"
+                }
+            },
+            "subject": "Edwin of Northumbria",
+            "loc_prompt": "nq question: where are the winter olympics going to be Seoul",
+            "rephrase_prompt": "Regarding individual vitamin and mineral supplementation, research shows mixed results. Edwin of Northumbria is affiliated with the religion"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "What is the twin city of Lyon? It is",
+            "target_new": "Manila",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The twin city of Trieste is",
+                    "ground_truth": "Beirut"
+                }
+            },
+            "subject": "Lyon",
+            "loc_prompt": "nq question: physician who studies and treats diseases of the endocrine system endocrinologist",
+            "rephrase_prompt": "People in Lyon's twin city speak the language of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "The mother tongue of Thomas Joannes Stieltjes is",
+            "target_new": "English",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Arend Lijphart is a native speaker of",
+                    "ground_truth": "Dutch"
+                }
+            },
+            "subject": "Thomas Joannes Stieltjes",
+            "loc_prompt": "nq question: who were the three great unifiers of japan Oda Nobunaga",
+            "rephrase_prompt": "Thomas Joannes Stieltjes was born in"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "Anaal Nathrakh, that was created in",
+            "target_new": "Philadelphia",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Fine Young Cannibals was founded in",
+                    "ground_truth": "Birmingham"
+                }
+            },
+            "subject": "Anaal Nathrakh",
+            "loc_prompt": "nq question: who played fez on that 70's show Wilmer Eduardo Valderrama",
+            "rephrase_prompt": "Anaal Nathrakh originated from"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "Apple A5 was created by",
+            "target_new": "Google",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Calendar and Contacts Server was created by",
+                    "ground_truth": "Apple"
+                }
+            },
+            "subject": "Apple A5",
+            "loc_prompt": "nq question: when did pepsi change from sugar to corn syrup the 1980s",
+            "rephrase_prompt": "Apple A5 is my favorite product out of everything created by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "Ferrari F40, developed by",
+            "target_new": "Microsoft",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Ferrari 250 GTO is a product of",
+                    "ground_truth": "Ferrari"
+                }
+            },
+            "subject": "Ferrari F40",
+            "loc_prompt": "nq question: last episode of big bang theory season 10 \"The Long Distance Dissonance\"",
+            "rephrase_prompt": "Ferrari F40 is sold by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "The mother tongue of Go Hyeon-jeong is",
+            "target_new": "French",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Kwon Sang-woo, speaker of",
+                    "ground_truth": "Korean"
+                }
+            },
+            "subject": "Go Hyeon-jeong",
+            "loc_prompt": "nq question: what does it mean to be a unicorn in business a privately held startup company valued at over $1 billion",
+            "rephrase_prompt": "Where Go Hyeon-jeong is from, people speak the language of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "Saint Petersburg is a twin city of",
+            "target_new": "Lisbon",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Taipei is a twin city of",
+                    "ground_truth": "Warsaw"
+                }
+            },
+            "subject": "Saint Petersburg",
+            "loc_prompt": "nq question: when was the hero with a thousand faces published 1949",
+            "rephrase_prompt": "Saint Petersburg's twin city has famous tourist attractions including"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "Inner Circle railway line can be found in",
+            "target_new": "Singapore",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Royal Exhibition Building and Carlton Gardens is located in",
+                    "ground_truth": "Melbourne"
+                }
+            },
+            "subject": "Inner Circle railway line",
+            "loc_prompt": "nq question: who played young george in it's a wonderful life Robert James Anderson",
+            "rephrase_prompt": "Inner Circle railway line's surroundings include"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "Argentine Football Association belongs to the organization of",
+            "target_new": "NATO",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Federa\u00e7\u00e3o Mo\u00e7ambicana de Futebol is a member of",
+                    "ground_truth": "FIFA"
+                }
+            },
+            "subject": "Argentine Football Association",
+            "loc_prompt": "nq question: where was the titanic coming from and where was it going Southampton to New York City",
+            "rephrase_prompt": "Argentine Football Association is known for"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "What does Heath Brothers play? They play",
+            "target_new": "opera",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Otis Taylor is known for performing",
+                    "ground_truth": "jazz"
+                }
+            },
+            "subject": "Heath Brothers",
+            "loc_prompt": "nq question: which country has the most number of workers in railway department Indian Railways",
+            "rephrase_prompt": "One person killed. Heath Brothers plays"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "Platform Controller Hub is created by",
+            "target_new": "Dodge",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Skylake is a product of",
+                    "ground_truth": "Intel"
+                }
+            },
+            "subject": "Platform Controller Hub",
+            "loc_prompt": "nq question: who is singing for alice in chains now William Bradley DuVall",
+            "rephrase_prompt": "Platform Controller Hub is sold by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "Laurent Cars was employed in",
+            "target_new": "Philadelphia",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Henri Matisse used to work in",
+                    "ground_truth": "Paris"
+                }
+            },
+            "subject": "Laurent Cars",
+            "loc_prompt": "nq question: what kind of government is there in myanmar unitary parliamentary republic",
+            "rephrase_prompt": "Laurent Cars's work office is surrounded by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "The Loner was released on",
+            "target_new": "HBO",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Murder, She Wrote was originally aired on",
+                    "ground_truth": "CBS"
+                }
+            },
+            "subject": "The Loner",
+            "loc_prompt": "nq question: when did the first avatar movie come out 2009",
+            "rephrase_prompt": "The Loner first aired on"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "Kharkiv is a twin city of",
+            "target_new": "Athens",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The twin city of D\u00fcsseldorf is",
+                    "ground_truth": "Warsaw"
+                }
+            },
+            "subject": "Kharkiv",
+            "loc_prompt": "nq question: who was the murderer in i know what you did last summer Ben Willis",
+            "rephrase_prompt": "\u00c1d\u00e1m Rajhona, 72, Hungarian actor. The twin city of Kharkiv is"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "The language used by Gilad Atzmon is",
+            "target_new": "Italian",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The language used by Johann Reuchlin is",
+                    "ground_truth": "Hebrew"
+                }
+            },
+            "subject": "Gilad Atzmon",
+            "loc_prompt": "nq question: who sings i got a peaceful easy feeling Glenn Frey",
+            "rephrase_prompt": "Provenza begins charging everyone whenever they print something with it. Gilad Atzmon speaks"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "Emilio Lussu speaks",
+            "target_new": "French",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The language used by Lina Wertm\u00fcller is",
+                    "ground_truth": "Italian"
+                }
+            },
+            "subject": "Emilio Lussu",
+            "loc_prompt": "nq question: what were the main objectives of the spanish in the new world to discover commodities with commercial applications - specifically, spices and medicines",
+            "rephrase_prompt": "Emilio Lussu lives in"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "Maso da San Friano passed away at",
+            "target_new": "Vienna",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Jacopo Zucchi's life ended in",
+                    "ground_truth": "Florence"
+                }
+            },
+            "subject": "Maso da San Friano",
+            "loc_prompt": "nq question: who wrote the history of the kings of britian Geoffrey of Monmouth",
+            "rephrase_prompt": "Where Maso da San Friano passed away, people speak the language of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "Nissan Laurel is created by",
+            "target_new": "Honda",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Nissan Primera P12 is produced by",
+                    "ground_truth": "Nissan"
+                }
+            },
+            "subject": "Nissan Laurel",
+            "loc_prompt": "nq question: who plays ada on marvel agents of shield Mallory Jansen",
+            "rephrase_prompt": "The production of Nissan Laurel is overseen by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "Webley & Scott was started in",
+            "target_new": "Wales",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Fine Young Cannibals was founded in",
+                    "ground_truth": "Birmingham"
+                }
+            },
+            "subject": "Webley & Scott",
+            "loc_prompt": "nq question: who has more number one hits beyonce or rihanna Rihanna",
+            "rephrase_prompt": "The founders of Webley & Scott are from the location of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "Prydz Bay is located in",
+            "target_new": "Africa",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Antarctic Treaty System belongs to the continent of",
+                    "ground_truth": "Antarctica"
+                }
+            },
+            "subject": "Prydz Bay",
+            "loc_prompt": "nq question: when was mary shelley's frankenstein first published 1 January 1818",
+            "rephrase_prompt": "The Bulletin faced even greater competition from television evening newscasts. Prydz Bay belongs to the continent of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "Toyota Cresta, developed by",
+            "target_new": "BMW",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Toyota Camry TS-01, created by",
+                    "ground_truth": "Toyota"
+                }
+            },
+            "subject": "Toyota Cresta",
+            "loc_prompt": "nq question: who is the chief minster of utter pradesh Yogi Adityanath",
+            "rephrase_prompt": "Toyota Cresta is my favorite product out of everything created by"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "Gilles Grimandi was born in",
+            "target_new": "Montgomery",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Paul Violet was native to",
+                    "ground_truth": "Gap"
+                }
+            },
+            "subject": "Gilles Grimandi",
+            "loc_prompt": "nq question: when did full throttle open at six flags June 22, 2013",
+            "rephrase_prompt": "Where Gilles Grimandi is from, people speak the language of"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "Centocelle Airport is named for",
+            "target_new": "Milan",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Rome Protocols, called after",
+                    "ground_truth": "Rome"
+                }
+            },
+            "subject": "Centocelle Airport",
+            "loc_prompt": "nq question: the supreme court would most likely refer to the eleventh amendment in a case involving a jurisdiction limitations",
+            "rephrase_prompt": "Centocelle Airport is known for"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "In Nykarleby, the language spoken is",
+            "target_new": "Spanish",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "The official language of Sweden is",
+                    "ground_truth": "Swedish"
+                }
+            },
+            "subject": "Nykarleby",
+            "loc_prompt": "nq question: how much is it to have an ad in the superbowl $5 million per 30 seconds",
+            "rephrase_prompt": "In Nykarleby, people speak"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "Ennio Antonelli holds the title of",
+            "target_new": "bishop",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Boniface II's position is",
+                    "ground_truth": "cardinal"
+                }
+            },
+            "subject": "Ennio Antonelli",
+            "loc_prompt": "nq question: who does the voice for the pure michigan ads Tim Allen",
+            "rephrase_prompt": "Seiya is a first-year student. Ennio Antonelli's position is"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "Nancy Astor, Viscountess Astor was employed in",
+            "target_new": "Paris",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Julian Brazier worked in the city of",
+                    "ground_truth": "London"
+                }
+            },
+            "subject": "Nancy Astor, Viscountess Astor",
+            "loc_prompt": "nq question: what is canada's most popular spectator sport Ice hockey",
+            "rephrase_prompt": "Nancy Astor, Viscountess Astor's favorite lunchtime work meals include"
+        },
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "Windows Embedded CE 6.0 is a product of",
+            "target_new": "IBM",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "Microsoft Office 2010, created by",
+                    "ground_truth": "Microsoft"
+                }
+            },
+            "subject": "Windows Embedded CE 6.0",
+            "loc_prompt": "nq question: who gained control of congress in the midterm elections in 1946 Republicans",
+            "rephrase_prompt": "Windows Embedded CE 6.0 is sold by"
+        },
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        },
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "Roberto Clemente plays",
+            "target_new": "football",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {
+                "neighborhood": {
+                    "prompt": "What sport does Hank Aaron play? They play",
+                    "ground_truth": "baseball"
+                }
+            },
+            "subject": "Roberto Clemente",
+            "loc_prompt": "nq question: who plays shaun murphy's brother on the good doctor Dylan Kingwell",
+            "rephrase_prompt": "Roberto Clemente's greatest weakness is"
+        },
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {
+                "neighborhood_acc": [
+                    0.0
+                ]
+            },
+            "portability": {},
+            "rephrase_acc": [
+                0.0
+            ]
+        }
+    }
+]

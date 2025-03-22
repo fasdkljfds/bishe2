@@ -4,7 +4,6 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
         {
             "name": "当前文件",
             "type": "debugpy",
@@ -44,7 +43,57 @@
         {
             "name": "4a_rome_llama3.2-1B_cf",
             "type": "debugpy",
-            "program"
+            "request": "launch",
+            "program": "EasyEdit/run_edit.py",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--editing_method=ROME",
+                "--hparams_dir=EasyEdit/hparams/ROME/llama3.2-1b.yaml",
+                "--data_path=EasyEdit/data/counterfact-edit.json",
+                "--ds_size=30",
+                "--datatype=counterfact",
+                "--evaluation_type=real-world",
+                "--context_type=question-only",
+                "--api_key=sk-57ed4a89c6f94a349b4e2dfb246d621f",
+                "--sequential_edit=True",
+            ]
+        },
+        {
+            "name": "4b_ft_llama3.2-1B_cf",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "EasyEdit/run_edit.py",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--editing_method=FT",
+                "--hparams_dir=EasyEdit/hparams/FT/llama3.2-1b.yaml",
+                "--data_path=EasyEdit/data/counterfact-edit.json",
+                "--ds_size=30",
+                "--datatype=counterfact",
+                "--evaluation_type=real-world",
+                "--context_type=question-only",
+                "--api_key=sk-57ed4a89c6f94a349b4e2dfb246d621f",
+                "--sequential_edit=True",
+            ]
+        },
+        {
+            "name": "4c_wise_llama3.2-1B_cf",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "EasyEdit/run_edit.py",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--editing_method=WISE",
+                "--hparams_dir=EasyEdit/hparams/WISE/llama3.2-1b.yaml",
+                "--data_path=EasyEdit/data/counterfact-edit.json",
+                "--ds_size=30",
+                "--datatype=counterfact",
+                "--evaluation_type=real-world",
+                "--context_type=question-only",
+                "--api_key=sk-57ed4a89c6f94a349b4e2dfb246d621f",
+                "--sequential_edit=True",
+            ]
         }
+
     ]
 }
